@@ -16,7 +16,7 @@ ibeaconPoc('Rainbow');
 ```
 ## License
 
-MIT © [Carlos Fernandez Garcia](https://github.com/carlosvillademor/ibeacon)
+MIT © [Carlos Fernandez Garcia](https://github.com/carlosvillademor/ibeacon-poc)
 
 
 [npm-image]: https://badge.fury.io/js/ibeacon-poc.svg

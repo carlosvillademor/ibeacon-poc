@@ -2,11 +2,11 @@
   "name": "ibeacon-poc",
   "version": "0.0.0",
   "description": "POC to discover and emitt as ibeacon",
-  "homepage": "https://github.com/carlosvillademor/ibeacon",
+  "homepage": "https://github.com/carlosvillademor/ibeacon-poc",
   "author": {
     "name": "Carlos Fernandez Garcia",
     "email": "carlos.villademor@gmail.com",
-    "url": "https://github.com/carlosvillademor/ibeacon"
+    "url": "https://github.com/carlosvillademor/ibeacon-poc"
   },
   "files": [
     "dist"
